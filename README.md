@@ -1,11 +1,5 @@
-# Crapwords
--- A webapp that instantly shows you your app's underperforming keywords in the App Store --
+# Hapi Boilerplate
+A quick way to get a Hapi.js app started. 
 
 
 
-
-# Getting Started
-
-
-
-## Tests:
