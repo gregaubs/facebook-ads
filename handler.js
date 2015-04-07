@@ -5,7 +5,7 @@ var fn = jade.compileFile(path);
 
 var home = function(request, reply){
     console.log('request handler for "/"');
-    reply('Hapi Boilerplate');
+    reply('Facebook Ads');
 }
  
 
