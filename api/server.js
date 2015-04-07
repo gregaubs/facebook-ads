@@ -1,11 +1,8 @@
 var Hapi = require('hapi');
 var Joi = require('joi');
-// var Bell = require('bell');
-// var Cookie = require('hapi-auth-cookie');
 var server = new Hapi.Server();
 var model = require('../model.js');
 var shortid = require('shortid');
-// var bcrypt = require('bcrypt');
 var handler = require('../handler.js');
 
 /* $lab:coverage:off$ */

@@ -1,5 +1,5 @@
 
-var db = require ('mongojs').connect('mongodb://foundry:foundry@ds037581.mongolab.com:37581/hapiblog', ['blogcollection', 'usercollection']);
+var db = require ('mongojs').connect('mongodb://.........', ['collection1', 'collection2 etc']);
 
 
 
